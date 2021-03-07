@@ -18,6 +18,6 @@ I do an API call and iprint it in text view
 - Access to the application is restricted 
 - Exchanges with API must be secure ( with TLS)
 
-My app validates all requirements exept TLS protocole in order to communicate wuth the API 
-I don't know how to createt a certificate in order to use the TLS protocol
+My app validates all requirements exept TLS protocol for communicate with the API 
+I don't know how to create a certificate in order to use the TLS protocol
 
