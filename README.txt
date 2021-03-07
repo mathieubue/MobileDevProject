@@ -12,3 +12,12 @@ I do an API call and iprint it in text view
 3-I haven't managed to hide the url
 4-See jgp
 
+### Requirements
+- This application must be available offline.
+- A refresh button allows the user to update its accounts.
+- Access to the application is restricted 
+- Exchanges with API must be secure ( with TLS)
+
+My app validates all requirements exept TLS protocole in order to communicate wuth the API 
+I don't know how to createt a certificate in order to use the TLS protocol
+
