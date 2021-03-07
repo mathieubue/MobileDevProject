@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DevMobApp</string>
+    <string name="str_btn_update">Update</string>
+    <string name="hello">Bienvenue</string>
+    <string name="key1">ID</string>
+    <string name="key2">Lastname</string>
+</resources>
